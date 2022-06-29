@@ -8,8 +8,6 @@ Aplicativo desenvolvido em SpringBoot para controle de contas à receber. Utiliz
 
 - [Java 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 - [Apache Maven](https://maven.apache.org/download.cgi#/)
-- [Docker](https://www.docker.com/products/docker-desktop) (caso queira usar o DB2 local)
-- [Imagem do DB2 para Docker](https://hub.docker.com/r/ibmcom/db2)
 - [Eclipse IDE for Enterprise Java](https://www.eclipse.org/downloads/packages/)
 
 ## Dependencias
